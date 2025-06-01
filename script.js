@@ -61,4 +61,8 @@ if ("geolocation" in navigator) {
 // Call the function to get user location on page load
 window.onload = getUserLocation;
 
+
+
+// to get send morning notification
+
    
